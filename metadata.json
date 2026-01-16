@@ -1,0 +1,4 @@
+{
+  "name": "PastelSecure Chat",
+  "description": "A cute, end-to-end encrypted chat application using Diffie-Hellman key exchange and AES-GCM encryption."
+}
