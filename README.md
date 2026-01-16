@@ -11,6 +11,11 @@ Welcome to **PastelSecure Chat**, the cutest way to send encrypted messages! We'
 *   **🍬 Pastel Palette:** Soft blues and whites that are gentle on your eyes.
 *   **☁️ Local & Private:** No servers store your chats! It works right in your browser.
 
+## Screenshots  
+* <img width="1384" height="778" alt="image" src="https://github.com/user-attachments/assets/0d8b4f82-eb0e-4ea4-8204-be293f691ffc" />
+* <img width="1203" height="767" alt="image" src="https://github.com/user-attachments/assets/a65abdde-93cc-4c17-bee1-1c4eca3b0e3f" />
+
+
 ## 🎮 How to Play (Use)
 
 1.  **Open the App:** You and your bestie need to open the app.
