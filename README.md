@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ☁️✨ PastelSecure Chat ✨☁️
 
-# Run and deploy your AI Studio app
+> *Keep your secrets safe in a pixelated pastel wonderland!* 🎀👾
 
-This contains everything you need to run your app locally.
+Welcome to **PastelSecure Chat**, the cutest way to send encrypted messages! We've combined military-grade security with a nostalgic 8-bit aesthetic because privacy should look adorable. (｡◕‿◕｡)
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## 🌟 Features
 
-## Run Locally
+*   **🔒 End-to-End Encryption:** We use fancy math (Diffie-Hellman & AES-GCM) so only you and your friend can read the messages.
+*   **👾 Retro Pixel Art Style:** Chunky borders, pixel fonts, and 8-bit vibes!
+*   **🍬 Pastel Palette:** Soft blues and whites that are gentle on your eyes.
+*   **☁️ Local & Private:** No servers store your chats! It works right in your browser.
 
-**Prerequisites:**  Node.js
+## 🎮 How to Play (Use)
 
+1.  **Open the App:** You and your bestie need to open the app.
+2.  **Exchange Keys:** You'll see a big "Your Public Key" box. Copy that jumble of text! 🗝️
+3.  **Share:** Send your key to your friend (via email, text, or carrier pigeon 🐦).
+4.  **Connect:** Paste *their* key into the "Peer's Public Key" box and hit **START CHAT**.
+5.  **Chat Away:** Once the hearts align (and the keys match), you are in a secure tunnel! 💬✨
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ The Magic Behind the Curtain
+
+*   **React** for the UI logic.
+*   **Tailwind CSS** for the pretty styling.
+*   **Web Crypto API** for the heavy lifting (security).
+*   **Pixel Love** for the soul. 💖
+
+---
+
+*Made with love and pixels.*
